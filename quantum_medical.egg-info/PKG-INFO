@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: quantum_medical
+Version: 0.1
+Requires-Dist: cirq-core>=1.1.0
+Requires-Dist: numpy>=1.24.0
+Requires-Dist: flask>=2.0.1
